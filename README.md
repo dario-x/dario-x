@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Dario 👋</h1>
 <center>
-<h3 align="center">Master Student @TUWien & @WUWien</h3>
+<h3 align="center">Master Student @TUWien</h3>
 </center>
 
 <p align="center">
