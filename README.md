@@ -1,6 +1,6 @@
 <h1 align="center">It's me, Dario 👋</h1>
 <center>
-<h3 align="center">Master Student @TUWien</h3>
+<h3 align="center"></h3>
 </center>
 
 <p align="center">
@@ -11,10 +11,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavengence" alt="mavengence" /> </p>
 
-- 🔭 I’m currently working writing my master thesis
 
-- 🌱 I’m always trying to learn new things about **Machine Learning**
+
+- 🌱 I’m always trying to learn new things
+
+- 🔭 Former Master Student @TUWien and @WUWien 
 
 - 📫 How to reach me **dario.arco@outlook.de**
+
+
 
 - ⚡ I love **coffee and indie rock :)**
